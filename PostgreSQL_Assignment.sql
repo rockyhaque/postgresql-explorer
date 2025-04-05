@@ -1,4 +1,4 @@
--- Active: 1743844866445@@127.0.0.1@5432@bookstore_db
+
 
 -- Creating Database
 CREATE DATABASE bookstore_db;
